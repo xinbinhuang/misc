@@ -71,7 +71,9 @@ export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 Following instructions at https://help.github.com/articles/generating-an-ssh-key/
 
-## the following parts need to double-check
+
+
+_the following parts need to double-check_
 
 And then `ssh-add -K ~/.ssh/id_rsa` to store the passphrase in Keychain.
 
