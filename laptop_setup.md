@@ -1,11 +1,10 @@
 ## Installations (Ubuntu)
- - Git, Make, Pandoc: `sudo apt-get install git build-essential pandoc`
+ - Git, Make, Pandoc, Texlive: `sudo apt-get install git build-essential pandoc texlive`
  - [Anaconda](https://www.continuum.io/downloads)
  - [R](https://cran.rstudio.com/)
  - [RStudio](https://www.rstudio.com/products/rstudio/download/)
  - [Chrome](https://www.google.ca/chrome/browser/desktop/index.html)
  - [Slack](https://slack.com/downloads/linux)
- - Texlive: `sudo apt-get install texlive`
  - [Atom](https://atom.io/)
    - Atom --> Install Shell Commands
    - [LaTeX](https://atom.io/packages/latex): `apm install latex` and `apm install language-tex`
