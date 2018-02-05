@@ -1,5 +1,5 @@
 ## Installations (Ubuntu)
- - Git, Make, Pandoc, Texlive: `sudo apt-get install git build-essential pandoc texlive`
+ - Git, Make, Pandoc, Texlive: `sudo apt-get install git build-essential pandoc texlive-full`
  - [Anaconda](https://www.continuum.io/downloads)
  - [R](https://cran.rstudio.com/)
  - [RStudio](https://www.rstudio.com/products/rstudio/download/)
