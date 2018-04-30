@@ -51,10 +51,11 @@ git config --global user.email xbhuang93@hotmail.com
 
 In `~/.bash_profile` add the following aliases:
 
-```
+```bash
 alias update='bash ~/../../update.sh' (git pull files for different repos
-alias l="git status"
+alias gs="git status"
 alias jp="jupyter notebook"
+alias jb="jupyter lab"
 ```
 
 _This following part need to double-check_
